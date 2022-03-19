@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Capstone</string>
+    <string name="title_favorite">Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="background">background</string>
+    <string name="profile">profile</string>
+    <string name="name">name is null</string>
+    <string name="toast_add_favorite">User is added to favorite</string>
+    <string name="toast_remove_favorite">User is deleted from favorite</string>
+    <string name="followers">Follower</string>
+    <string name="following">Following</string>
+    <string name="toolbar">Find an Expert Dev</string>
+    <string name="favorite">favorite</string>
+    <string name="like">like</string>
+</resources>
